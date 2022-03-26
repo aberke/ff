@@ -1,0 +1,22 @@
+redirect page for RSVP survey X
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+ </head>
+ <body>
+  <span style="font-size: 3px;">FF</span>
+ </body>
+ <script>
+   var webpages = [];
+    //------TODO: modify for each survey ------
+   webpages.push("https://docs.google.com/forms/d/changeme1/viewform?usp=sf_link");
+   webpages.push("https://docs.google.com/forms/d/changeme2/viewform?usp=sf_link");
+   //------------------------------------------
+   var random_page = webpages[Math.floor(Math.random()*webpages.length)];
+   // redirect
+   window.location.replace(random_page);
+ </script>
+</html>
