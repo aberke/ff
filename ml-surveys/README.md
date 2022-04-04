@@ -16,7 +16,7 @@ For each week:
 - Set up spreadsheet to capture responses (private, only accessible by COUHES registered/approved personnel)
 - copy `template.html`
 - rename as `[number].html` and modify to include links to control vs experiment RSVP forms
-- create new shortlink that redirects to `[number].html` in order to hide this sketchy repo link
+- create new shortlink that redirects to `https://aberke.github.io/ff/ml-surveys/[number].html` in order to hide this sketchy repo link
 - test! random rediction works and spreadsheet populates
 - share short link
 
