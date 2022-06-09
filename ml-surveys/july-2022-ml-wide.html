@@ -1,0 +1,20 @@
+<!-- July 2022 ML wide event coordinated with Yuko  -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+ </head>
+ <body>
+  <span style="font-size: 3px;">FF</span>
+ </body>
+ <script>
+   var webpages = [];
+   webpages.push("https://docs.google.com/forms/d/e/1FAIpQLScXuiT44AWKFW-O4JTLRj4mlPNzOJjcVFarhjwC-hMW4ElAbw/viewform?usp=sf_link");
+   webpages.push("https://docs.google.com/forms/d/e/1FAIpQLScy4l36b_KtsUlFEOcFHR0muBuYA1DhgRi2m-uHvNui-VBLdQ/viewform?usp=sf_link");
+   var random_page = webpages[Math.floor(Math.random()*webpages.length)];
+   // redirect
+   window.location.replace(random_page);
+ </script>
+</html>
