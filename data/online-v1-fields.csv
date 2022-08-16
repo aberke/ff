@@ -1,0 +1,46 @@
+,field
+Duration (in seconds),Duration (in seconds)
+Finished,Finished
+RecordedDate,Recorded Date
+ResponseId,Response ID
+Q_attn_1,Please enter the number you see here into the box below.
+Q_attn_2,Help us keep track of who is paying attention. Please select somewhat disagree from the options below.
+Q_sandwich_1,Which item would you prefer?
+Q_sandwich_2,Which item would you prefer?
+Q_sandwich_3,Which item would you prefer?
+Q_sandwich_4,Which item would you prefer?
+Q_sandwich_5,Which item would you prefer?
+Q_sandwich_1_labeled,Which item would you prefer?
+Q_sandwich_2_labeled,Which item would you prefer?
+Q_sandwich_3_labeled,Which item would you prefer?
+Q_sandwich_4_labeled,Which item would you prefer?
+Q_sandwich_5_labeled,Which item would you prefer?
+Q_attn_check,Which item would you prefer?
+Q_current_hunger,How would you rank your current hunger level on a scale from 1 - 4?
+Q_priorities_1,How do you prioritize the following when choosing what to order for yourself off a menu?   Please drag to reorder the list with the highest priority at the top (1). - Health
+Q_priorities_2,How do you prioritize the following when choosing what to order for yourself off a menu?   Please drag to reorder the list with the highest priority at the top (1). - Cost
+Q_priorities_3,How do you prioritize the following when choosing what to order for yourself off a menu?   Please drag to reorder the list with the highest priority at the top (1). - Taste
+Q_priorities_4,How do you prioritize the following when choosing what to order for yourself off a menu?   Please drag to reorder the list with the highest priority at the top (1). - Whether it's filling
+Q_priorities_5,How do you prioritize the following when choosing what to order for yourself off a menu?   Please drag to reorder the list with the highest priority at the top (1). - It's my usual choice
+Q_special_diet,Are you on any special diet?  (select all that apply) - Selected Choice
+Q_special_diet_6_TEXT,Are you on any special diet?  (select all that apply) - Other - Text
+Q_past_vegetarian,"In the past 7 days, on how many days did you have a meal that contained any meat, poultry, or fish?"
+Q_past_vegan,"In the past 7 days, on how many days did you eat a meal that contained any kind of animal product? (i.e. on how many days did you eat meat, poultry, fish, dairy, eggs, etc?)"
+Q_vegetarian_not_me,"How strongly do you agree with the following statement?  ""Vegetarian dishes are not for people like me."""
+Q_vegan_not_me,"How strongly do you agree with the following statement?  ""Vegan dishes are not for people like me."""
+Q_good_for_env,"How strongly do you agree with the following statement?   ""Vegetarian and vegan dishes are good for the environment."""
+Q_how_important_env,How important is environmental sustainability to you as an issue?
+Q_attn_midway,Do you want to help us find out who is paying attention? Please select Very important.
+Q_politics,Which of the following best describes your political preference?
+Q_US_state,"50 States, D.C. and Puerto Rico"
+Q_live_urban,Which best describes the area you live?
+Q_work_urban,Do you work in an urban area? - Selected Choice
+Q_work_urban_3_TEXT,Do you work in an urban area? - Not sure / Other - Text
+Q_demos_age,How old are you?
+Q_demos_gender,What is your gender?
+Q_demos_income,What was your total household income before taxes during the past 12 months?
+Q_demos_race,Choose one or more races that you consider yourself to be
+Q_comments,Any extra comments? (optional)
+PROLIFIC_PID,PROLIFIC_PID
+STUDY_ID,STUDY_ID
+treatment,treatment

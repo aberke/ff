@@ -131,6 +131,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# for now keep all data private
-# TODO: make privacy safe dataset
-data/
+# keep raw survey data private
+online-v0-prolific-sample-130.csv
+online-v1-prolific-sample-test.csv
+online-v1-prolific-sample.csv
+online-v0-prolific-sample-10.csv
