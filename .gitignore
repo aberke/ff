@@ -132,6 +132,10 @@ dmypy.json
 .pyre/
 
 # keep raw survey data private
+# field studies
+spring-2022-mas-research-talks-responses-aggregated.csv
+data/july-2022-lab-lunch-responses-aggregated.csv
+# online study
 online-v0-prolific-sample-130.csv
 online-v1-prolific-sample-test.csv
 online-v1-prolific-sample.csv
