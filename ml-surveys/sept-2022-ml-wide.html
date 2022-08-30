@@ -1,0 +1,20 @@
+<!-- Sept 2022 ML wide event coordinated with David and Maria  -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+ </head>
+ <body>
+  <span style="font-size: 3px;">FF</span>
+ </body>
+ <script>
+   var webpages = [];
+   webpages.push("https://docs.google.com/forms/d/e/1FAIpQLSd1zHtTroD1BY2TdS4k6I_1gGPs041hug3Po-vEeRP3D3HYvA/viewform?usp=sf_link");
+   webpages.push("https://docs.google.com/forms/d/e/1FAIpQLSePc517PDzaMPFZz8We6GmnXKgufwuYx1XCHkdO-A7ZY76BNA/viewform?usp=sf_link");
+   var random_page = webpages[Math.floor(Math.random()*webpages.length)];
+   // redirect
+   window.location.replace(random_page);
+ </script>
+</html>
