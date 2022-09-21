@@ -1,0 +1,20 @@
+redirect page for RSVP survey X
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+ </head>
+ <body>
+  <span style="font-size: 3px;">FF</span>
+ </body>
+ <script>
+   var webpages = [];
+   webpages.push("https://docs.google.com/forms/d/e/1FAIpQLSdLs8br-NYiiV0-WhSMV3DGIvMjk859JidjFBA5Asn2ihNRVw/viewform?usp=sf_link");
+   webpages.push("https://docs.google.com/forms/d/e/1FAIpQLScq0-PJFjT883q-1avEWrGC1320g7g8ZK7TgahcCiKvVS8kaw/viewform?usp=sf_link");
+   var random_page = webpages[Math.floor(Math.random()*webpages.length)];
+   // redirect
+   window.location.replace(random_page);
+ </script>
+</html>
